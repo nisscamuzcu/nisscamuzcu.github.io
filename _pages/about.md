@@ -17,7 +17,7 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
 ## Publications
 
-- **[Starlink Beacons for Passive LEO-Aided 9D Navigation](https://arxiv.org/abs/2605.20394)**  [[slides]](/files/VTC_NisanurCamuzcu_pdf.pdf)
+- **[Starlink Beacons for Passive LEO-Aided 9D Navigation](https://arxiv.org/abs/2605.20394)**  [[slides]](/files/VTC_NisanurCamuzcu_pdf.pdf)  
   **Nisanur Camuzcu**, Tiep M. Hoang, Alireza Vahid  
   *IEEE 104th Vehicular Technology Conference (VTC2026-Fall), 2026*
 
