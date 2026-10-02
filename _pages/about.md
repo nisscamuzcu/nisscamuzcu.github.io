@@ -60,7 +60,7 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
 ## Teaching Experience
 
-- **Graduate Teaching Assistant**, EEEE-484 Communication Systems, Rochester Institute of Technology, Spring 2026.  
+- **Teaching Assistant**, EEEE-484 Communication Systems, Spring 2026.  
 <!-- Assisted with analog and digital communication topics including modulation, spectral analysis, noise, and detection through office and laboratory hours. -->
 
 <!-- My current work investigates passive LEO-assisted navigation using Starlink beacon signals, GNSS/LEO/IMU sensor fusion, and adaptive trust orchestration for resilient navigation under jamming, spoofing, and changing satellite availability. Previously, I worked on RIS-assisted indoor localization at millimeter-wave frequencies and on energy-efficient optical network design. 
