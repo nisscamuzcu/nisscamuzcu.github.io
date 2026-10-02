@@ -17,7 +17,7 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
 ## Publications
 
-- **[Starlink Beacons for Passive LEO-Aided 9D Navigation](https://arxiv.org/abs/2605.20394)**  
+- **[Starlink Beacons for Passive LEO-Aided 9D Navigation](https://arxiv.org/abs/2605.20394)**  [[slides]](/files/VTC_NisanurCamuzcu_pdf.pdf)
   **Nisanur Camuzcu**, Tiep M. Hoang, Alireza Vahid  
   *IEEE 104th Vehicular Technology Conference (VTC2026-Fall), 2026*
 
@@ -38,11 +38,11 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
   Alptuğ Aytekin, Furkan Bağcı, Mustafa Bozdağ, **Nisanur Camuzcu**, Alperen Duru, Mehmet Saim Elma, Amirhossein Maghsoudi, Billur Barshan, Serdar Köse, Çağlar Akman  
   *IEEE 30th Signal Processing and Communications Applications Conference (SIU), 2022*
 
-## Talks & Presentations
+<!--## Talks & Presentations
 
 - **Starlink Beacons for Passive LEO-Aided 9D Navigation**, presented at the **IEEE 104th Vehicular Technology Conference (VTC2026-Fall)**, Boston, MA, September 2026.
 
-- **Secure Pseudonymetry with DSSS Watermarking for LEO Satellites**, to be presented at the **IEEE Military Communications Conference (MILCOM 2026)**, National Capital Region, DC, October 2026.
+- **Secure Pseudonymetry with DSSS Watermarking for LEO Satellites**, to be presented at the **IEEE Military Communications Conference (MILCOM 2026)**, National Capital Region, DC, October 2026.-->
 
 ## Honors and Awards
 
