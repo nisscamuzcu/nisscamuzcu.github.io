@@ -17,7 +17,7 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
 ## Publications
 
-- **[Secure Pseudonymetry with DSSS Watermarking for LEO Satellites](https://arxiv.org/abs/2608.27693)**  [[slides]](/files/MILCOM2026_NisanurCamuzcu.pdf)  
+- **[Secure Pseudonymetry with DSSS Watermarking for LEO Satellites](https://arxiv.org/abs/2608.27693)**  [[slides]](/files/MILCOM2026_NisanurCamuzcu.pdf) [[poster]](MilcomPoster_36x44_NisanurCamuzcu.pdf)  
   **Nisanur Camuzcu**, Alireza Vahid  
   *IEEE Military Communications Conference (MILCOM), 2026*  
   **Best Poster Award (2nd Place)**
