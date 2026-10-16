@@ -17,10 +17,11 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 
 ## Publications
 
-- **[Secure Pseudonymetry with DSSS Watermarking for LEO Satellites](https://arxiv.org/abs/2608.27693)**  
+- **[Secure Pseudonymetry with DSSS Watermarking for LEO Satellites](https://arxiv.org/abs/2608.27693)**  [[slides]](/files/MILCOM2026_NisanurCamuzcu.pdf)  
   **Nisanur Camuzcu**, Alireza Vahid  
-  *IEEE Military Communications Conference (MILCOM), 2026*
-
+  *IEEE Military Communications Conference (MILCOM), 2026*  
+  **Best Poster Award (2nd Place)**
+  
 - **[Starlink Beacons for Passive LEO-Aided 9D Navigation](https://arxiv.org/abs/2605.20394)**  [[slides]](/files/VTC_NisanurCamuzcu_pdf.pdf)  
   **Nisanur Camuzcu**, Tiep M. Hoang, Alireza Vahid  
   *IEEE 104th Vehicular Technology Conference (VTC2026-Fall), 2026*
@@ -45,6 +46,8 @@ Here's my [CV](/files/Nisanur_Camuzcu_CV.pdf).
 - **Secure Pseudonymetry with DSSS Watermarking for LEO Satellites**, to be presented at the **IEEE Military Communications Conference (MILCOM 2026)**, National Capital Region, DC, October 2026.-->
 
 ## Honors and Awards
+
+- **Best Poster Award (2nd Place)**, IEEE Military Communications Conference (MILCOM), 2026.
 
 - **Promising Turks Fund Scholarship**, 2026.
 
